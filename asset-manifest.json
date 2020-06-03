@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MaheshMudike/React-Redux.git/static/css/main.f45226ac.chunk.css",
+    "main.js": "/MaheshMudike/React-Redux.git/static/js/main.d195376a.chunk.js",
+    "main.js.map": "/MaheshMudike/React-Redux.git/static/js/main.d195376a.chunk.js.map",
+    "runtime-main.js": "/MaheshMudike/React-Redux.git/static/js/runtime-main.1a1587c1.js",
+    "runtime-main.js.map": "/MaheshMudike/React-Redux.git/static/js/runtime-main.1a1587c1.js.map",
+    "static/js/2.a009099f.chunk.js": "/MaheshMudike/React-Redux.git/static/js/2.a009099f.chunk.js",
+    "static/js/2.a009099f.chunk.js.map": "/MaheshMudike/React-Redux.git/static/js/2.a009099f.chunk.js.map",
+    "index.html": "/MaheshMudike/React-Redux.git/index.html",
+    "precache-manifest.d926e76b85beaef99bc00752aff98a1c.js": "/MaheshMudike/React-Redux.git/precache-manifest.d926e76b85beaef99bc00752aff98a1c.js",
+    "service-worker.js": "/MaheshMudike/React-Redux.git/service-worker.js",
+    "static/css/main.f45226ac.chunk.css.map": "/MaheshMudike/React-Redux.git/static/css/main.f45226ac.chunk.css.map",
+    "static/js/2.a009099f.chunk.js.LICENSE.txt": "/MaheshMudike/React-Redux.git/static/js/2.a009099f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MaheshMudike/React-Redux.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1587c1.js",
+    "static/js/2.a009099f.chunk.js",
+    "static/css/main.f45226ac.chunk.css",
+    "static/js/main.d195376a.chunk.js"
+  ]
+}
